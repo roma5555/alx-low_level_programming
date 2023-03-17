@@ -1,10 +1,10 @@
-#! / bin / bash
+# !/ bin / bash
 #include<stdio.h>
 int main(void)
 {
 	int n;
 	printf("enter the number");
-	scanf("%d" ,&n);
+	scanf("%d", &n);
 	if (n > 0) 
 		printf("%d is positive\n", n);
 	else if (n == 0)
