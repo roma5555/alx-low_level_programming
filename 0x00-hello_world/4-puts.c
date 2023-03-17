@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-/*
- *  * main - a program that prints in a new line using the puts n
- *     *
- *      * Return: Alawys 0 (Success)
- */
+/**
+ *  main - a program that prints in a new line using the puts
+ *  Return: Alawys 0 (Success)
+ **/
 
 int main(void)
 {
