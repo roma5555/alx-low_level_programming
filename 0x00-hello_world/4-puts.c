@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- *  * main - A C program that prints with put function
+ *  * main - a program that prints in a new line using the puts n
  *     *
  *      * Return: Alawys 0 (Success)
  */
